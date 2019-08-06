@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/SysInfo WorkSpace/DemoProject/activation.jar"/>
+	<classpathentry kind="lib" path="D:/SysInfo WorkSpace/DemoProject/jaxb-api-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/SysInfo WorkSpace/DemoProject/jaxb-core-2.2.7.jar"/>
+	<classpathentry kind="lib" path="D:/SysInfo WorkSpace/DemoProject/jaxb-impl-2.2_1.jar"/>
+	<classpathentry kind="lib" path="D:/SysInfo WorkSpace/DemoProject/javax-xml-soap-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/SysInfo WorkSpace/DemoProject/javax.mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/SysInfo WorkSpace/aspose-email-19.6-jdk16.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/SysInfo WorkSpace/DemoProject/wkhtmltopdf-java-0.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
